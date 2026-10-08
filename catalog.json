@@ -30,7 +30,8 @@
       "H": 25,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW - Restroom Casework  - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW - Restroom Casework  - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c1",
@@ -43,7 +44,8 @@
       "H": 50,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW - Restroom Casework  - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW - Restroom Casework  - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c2",
@@ -56,7 +58,8 @@
       "H": 50,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW - Restroom Casework  - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW - Restroom Casework  - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c3",
@@ -69,7 +72,8 @@
       "H": 50,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW - Restroom Casework  - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW - Restroom Casework  - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c4",
@@ -82,7 +86,8 @@
       "H": 50,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW - Restroom Casework  - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW - Restroom Casework  - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c5",
@@ -95,7 +100,8 @@
       "H": 50,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW01 - Front Bar Casework - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW01 - Front Bar Casework - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c6",
@@ -108,7 +114,8 @@
       "H": 50,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW01 - Front Bar Casework - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW01 - Front Bar Casework - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c7",
@@ -121,7 +128,8 @@
       "H": 50,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW01 - Front Bar Casework - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW01 - Front Bar Casework - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c8",
@@ -134,7 +142,8 @@
       "H": 50,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW01 - Front Bar Casework - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW01 - Front Bar Casework - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c9",
@@ -142,12 +151,13 @@
       "job": "5242-1",
       "mark": "CW01",
       "name": "Front bar casework crate #5",
-      "L": null,
-      "W": null,
-      "H": null,
+      "L": 144,
+      "W": 48,
+      "H": 70,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW01 - Front Bar Casework - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW01 - Front Bar Casework - CRATE.pdf",
+      "note": "typical I-5 A-frame (Daniel 2026-10-08)"
     },
     {
       "id": "c10",
@@ -160,7 +170,8 @@
       "H": 40,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW02 - Back Bar Casework - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW02 - Back Bar Casework - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c11",
@@ -173,7 +184,8 @@
       "H": null,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW02 - Back Bar Casework - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW02 - Back Bar Casework - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c12",
@@ -186,7 +198,8 @@
       "H": null,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW02 - Back Bar Casework - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW02 - Back Bar Casework - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c13",
@@ -199,7 +212,8 @@
       "H": 45,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW03 - Host Station - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW03 - Host Station - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c14",
@@ -212,7 +226,8 @@
       "H": 36,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW04 - Beverage Station - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - CW04 - Beverage Station - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c15",
@@ -225,7 +240,8 @@
       "H": 36,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D01 - Bar Ceiling Feature - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D01 - Bar Ceiling Feature - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c16",
@@ -238,7 +254,8 @@
       "H": 36,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D01 - Bar Ceiling Feature - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D01 - Bar Ceiling Feature - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c17",
@@ -251,7 +268,8 @@
       "H": 40,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D01 - Bar Ceiling Feature - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D01 - Bar Ceiling Feature - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c18",
@@ -264,7 +282,8 @@
       "H": 52,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D02 - Back Bar Feature - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D02 - Back Bar Feature - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c19",
@@ -277,7 +296,8 @@
       "H": 40,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D02 - Back Bar Feature - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D02 - Back Bar Feature - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c20",
@@ -290,7 +310,8 @@
       "H": 54,
       "qty": 2,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D03 - Curving Banquette Feature Wall.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D03 - Curving Banquette Feature Wall.pdf",
+      "note": ""
     },
     {
       "id": "c21",
@@ -303,7 +324,8 @@
       "H": 30,
       "qty": 1,
       "flag": "D03 crates #2 and #3: width 32 in vs 44 in may be swapped.",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D03 - Curving Banquette Feature Wall.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D03 - Curving Banquette Feature Wall.pdf",
+      "note": ""
     },
     {
       "id": "c22",
@@ -316,7 +338,8 @@
       "H": 16,
       "qty": 1,
       "flag": "D03 crates #2 and #3: width 32 in vs 44 in may be swapped.",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D03 - Curving Banquette Feature Wall.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D03 - Curving Banquette Feature Wall.pdf",
+      "note": ""
     },
     {
       "id": "c23",
@@ -329,7 +352,8 @@
       "H": 16,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D03 - Curving Banquette Feature Wall.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D03 - Curving Banquette Feature Wall.pdf",
+      "note": ""
     },
     {
       "id": "c24",
@@ -342,7 +366,8 @@
       "H": 52,
       "qty": 2,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D04 - Straight Banquette Wall Feature.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D04 - Straight Banquette Wall Feature.pdf",
+      "note": ""
     },
     {
       "id": "c25",
@@ -355,7 +380,8 @@
       "H": 30,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D04 - Straight Banquette Wall Feature.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D04 - Straight Banquette Wall Feature.pdf",
+      "note": ""
     },
     {
       "id": "c26",
@@ -368,7 +394,8 @@
       "H": 16,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D04 - Straight Banquette Wall Feature.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D04 - Straight Banquette Wall Feature.pdf",
+      "note": ""
     },
     {
       "id": "c27",
@@ -381,7 +408,8 @@
       "H": 20,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D05 - Private Dining Ceiling Baffles.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D05 - Private Dining Ceiling Baffles.pdf",
+      "note": ""
     },
     {
       "id": "c28",
@@ -394,7 +422,8 @@
       "H": 56,
       "qty": 14,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D10 - Amber Chandelier - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D10 - Amber Chandelier - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c29",
@@ -407,7 +436,8 @@
       "H": 48,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D13,D15 - Soffit Lighting - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - D13,D15 - Soffit Lighting - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c30",
@@ -420,7 +450,8 @@
       "H": 50,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - F1 - Banquet Curved - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - F1 - Banquet Curved - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c31",
@@ -433,7 +464,8 @@
       "H": 50,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - F1 - Banquet Curved - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - F1 - Banquet Curved - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c32",
@@ -446,7 +478,8 @@
       "H": 48,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - F2 - Banquet Straight - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - F2 - Banquet Straight - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c33",
@@ -459,7 +492,8 @@
       "H": 52,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - F2 - Banquet Straight - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - F2 - Banquet Straight - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c34",
@@ -472,7 +506,8 @@
       "H": 47,
       "qty": 3,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - F8 - Communal Table.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - F8 - Communal Table.pdf",
+      "note": ""
     },
     {
       "id": "c35",
@@ -485,7 +520,8 @@
       "H": 36,
       "qty": 2,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - F8b - Communal Table.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - F8b - Communal Table.pdf",
+      "note": ""
     },
     {
       "id": "c36",
@@ -498,7 +534,8 @@
       "H": 22.5,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - MW - Millwork Package - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - MW - Millwork Package - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c37",
@@ -511,7 +548,8 @@
       "H": 42.5,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - MW - Millwork Package - CRATE.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - MW - Millwork Package - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c38",
@@ -524,7 +562,8 @@
       "H": 55,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - SG - All Signage Crates.pdf"
+      "sourcePdf": "spirit-mountain-5242/Spirit Mountain Sports Bar - SG - All Signage Crates.pdf",
+      "note": ""
     },
     {
       "id": "c39",
@@ -537,7 +576,8 @@
       "H": 45,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - CW01 - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - CW01 - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c40",
@@ -550,7 +590,8 @@
       "H": 45,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - CW01 - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - CW01 - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c41",
@@ -558,12 +599,13 @@
       "job": "5302-1",
       "mark": "CW01",
       "name": "Sports bar casework crate #3",
-      "L": null,
-      "W": null,
-      "H": null,
+      "L": 144,
+      "W": 48,
+      "H": 70,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - CW01 - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - CW01 - CRATE.pdf",
+      "note": "typical I-5 A-frame (Daniel 2026-10-08)"
     },
     {
       "id": "c42",
@@ -571,12 +613,13 @@
       "job": "5302-1",
       "mark": "CW01",
       "name": "Sports bar casework crate #4",
-      "L": null,
-      "W": null,
-      "H": null,
+      "L": 144,
+      "W": 48,
+      "H": 70,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - CW01 - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - CW01 - CRATE.pdf",
+      "note": "typical I-5 A-frame (Daniel 2026-10-08)"
     },
     {
       "id": "c43",
@@ -589,7 +632,8 @@
       "H": 80,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D1 Bar Valance and Suspended Lightbox - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D1 Bar Valance and Suspended Lightbox - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c44",
@@ -602,7 +646,8 @@
       "H": 52,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D1 Bar Valance and Suspended Lightbox - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D1 Bar Valance and Suspended Lightbox - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c45",
@@ -615,7 +660,8 @@
       "H": 30,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D1 Bar Valance and Suspended Lightbox - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D1 Bar Valance and Suspended Lightbox - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c46",
@@ -628,7 +674,8 @@
       "H": 55,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D02 - Decorative Ibeams And Screens - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D02 - Decorative Ibeams And Screens - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c47",
@@ -641,7 +688,8 @@
       "H": 36,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D02 - Decorative Ibeams And Screens - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D02 - Decorative Ibeams And Screens - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c48",
@@ -654,7 +702,8 @@
       "H": 24,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D02 - Decorative Ibeams And Screens - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D02 - Decorative Ibeams And Screens - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c49",
@@ -667,7 +716,8 @@
       "H": 24,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D02 - Decorative Ibeams And Screens - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D02 - Decorative Ibeams And Screens - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c50",
@@ -680,7 +730,8 @@
       "H": 46,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D04 - Imetal Wall Features - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D04 - Imetal Wall Features - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c51",
@@ -693,7 +744,8 @@
       "H": 10,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D05  & D08 Column Sconces & Jewel Pendant - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D05  & D08 Column Sconces & Jewel Pendant - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c52",
@@ -706,7 +758,8 @@
       "H": 10,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D05  & D08 Column Sconces & Jewel Pendant - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D05  & D08 Column Sconces & Jewel Pendant - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c53",
@@ -719,7 +772,8 @@
       "H": 15,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D05  & D08 Column Sconces & Jewel Pendant - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D05  & D08 Column Sconces & Jewel Pendant - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c54",
@@ -732,7 +786,8 @@
       "H": 10,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D05  & D08 Column Sconces & Jewel Pendant - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D05  & D08 Column Sconces & Jewel Pendant - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c55",
@@ -745,7 +800,8 @@
       "H": 56,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D05  & D08 Column Sconces & Jewel Pendant - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D05  & D08 Column Sconces & Jewel Pendant - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c56",
@@ -758,7 +814,8 @@
       "H": 36,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D06 - Locking Illuminated Bottle Displays -CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D06 - Locking Illuminated Bottle Displays -CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c57",
@@ -771,7 +828,8 @@
       "H": 14,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D06 - Locking Illuminated Bottle Displays -CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D06 - Locking Illuminated Bottle Displays -CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c58",
@@ -784,7 +842,8 @@
       "H": 30,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D06 - Locking Illuminated Bottle Displays -CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D06 - Locking Illuminated Bottle Displays -CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c59",
@@ -797,7 +856,8 @@
       "H": 36,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D07 -Decorative Column Trims - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D07 -Decorative Column Trims - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c60",
@@ -810,7 +870,8 @@
       "H": 39,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D09 - Railing - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Bar - D09 - Railing - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c61",
@@ -823,7 +884,8 @@
       "H": 60,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Beverage Stations - D20 - Beverage Stations Entry Header And Columns.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Beverage Stations - D20 - Beverage Stations Entry Header And Columns.pdf",
+      "note": ""
     },
     {
       "id": "c62",
@@ -836,7 +898,8 @@
       "H": 36,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Beverage Stations - D21 - Beverage Station Back Wall Shelving Display - CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Beverage Stations - D21 - Beverage Station Back Wall Shelving Display - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c63",
@@ -849,7 +912,8 @@
       "H": null,
       "qty": 2,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Beverage Stations - CW20&CW21 CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Beverage Stations - CW20&CW21 CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c64",
@@ -862,7 +926,8 @@
       "H": null,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "table-mountain-5302/Table Mountain Sports Beverage Stations - CW20&CW21 CRATE.pdf"
+      "sourcePdf": "table-mountain-5302/Table Mountain Sports Beverage Stations - CW20&CW21 CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c65",
@@ -875,7 +940,8 @@
       "H": 32,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D04 - Entry Column Screen Features - CRATE DRAWING.pdf"
+      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D04 - Entry Column Screen Features - CRATE DRAWING.pdf",
+      "note": ""
     },
     {
       "id": "c66",
@@ -888,7 +954,8 @@
       "H": 31,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D05 - Back Wall Veneer Paneling - CRATE.pdf"
+      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D05 - Back Wall Veneer Paneling - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c67",
@@ -901,7 +968,8 @@
       "H": 52,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D06 - Entry Cove Paneling and Lighting CRATE.pdf"
+      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D06 - Entry Cove Paneling and Lighting CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c68",
@@ -914,7 +982,8 @@
       "H": 33.5,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D9,10,11 - VIP and Lounge Column Paneling and Cove Lighting - CRATE.pdf"
+      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D9,10,11 - VIP and Lounge Column Paneling and Cove Lighting - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c69",
@@ -927,7 +996,8 @@
       "H": 17,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D9,10,11 - VIP and Lounge Column Paneling and Cove Lighting - CRATE.pdf"
+      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D9,10,11 - VIP and Lounge Column Paneling and Cove Lighting - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c70",
@@ -940,7 +1010,8 @@
       "H": 24,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D13 - VIP Reception Veneer Feature - CRATE.pdf"
+      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D13 - VIP Reception Veneer Feature - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c71",
@@ -953,7 +1024,8 @@
       "H": 14,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D14 - VIP Reception Screen Feature - CRATE.pdf"
+      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D14 - VIP Reception Screen Feature - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c72",
@@ -966,7 +1038,8 @@
       "H": 12.5,
       "qty": 1,
       "flag": "Two sheets are both stamped D14 with different sizes. Confirm which one to ship.",
-      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - VIP Reception Screen Feature - CRATE.pdf"
+      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - VIP Reception Screen Feature - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c73",
@@ -979,7 +1052,8 @@
       "H": 14,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D15 - Bar Area Screen Feature - CRATE.pdf"
+      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D15 - Bar Area Screen Feature - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c74",
@@ -992,7 +1066,8 @@
       "H": 33,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D16 - (5) VIP Host Screen Features - CRATE.pdf"
+      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D16 - (5) VIP Host Screen Features - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c75",
@@ -1005,7 +1080,8 @@
       "H": 23,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D16 - (5) VIP Host Screen Features - CRATE.pdf"
+      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - D16 - (5) VIP Host Screen Features - CRATE.pdf",
+      "note": ""
     },
     {
       "id": "c76",
@@ -1018,7 +1094,8 @@
       "H": 68,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes -D19,20,21 - Cloud Ceiling Features CRATES.pdf"
+      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes -D19,20,21 - Cloud Ceiling Features CRATES.pdf",
+      "note": ""
     },
     {
       "id": "c77",
@@ -1031,7 +1108,8 @@
       "H": 52,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes -D19,20,21 - Cloud Ceiling Features CRATES.pdf"
+      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes -D19,20,21 - Cloud Ceiling Features CRATES.pdf",
+      "note": ""
     },
     {
       "id": "c78",
@@ -1044,7 +1122,8 @@
       "H": 16.5,
       "qty": 1,
       "flag": "",
-      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - SG - Signage - CRATE.pdf"
+      "sourcePdf": "desert-diamond-high-stakes/Desert Diamond Tucson High Stakes - SG - Signage - CRATE.pdf",
+      "note": ""
     }
   ]
 }
